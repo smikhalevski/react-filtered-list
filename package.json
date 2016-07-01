@@ -17,13 +17,9 @@
   ],
   "keywords": [
     "react",
-    "tag",
-    "tags",
-    "pill",
-    "input",
-    "editor",
-    "autogrow",
-    "autoheight"
+    "filter",
+    "list",
+    "autocomplete"
   ],
   "scripts": {
     "package": "webpack --p",
